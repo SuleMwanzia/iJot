@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">iJot</string>
+    <string name="type_your_thoughts_here">Type Your Thoughts Here...</string>
+    <string name="note_title">Title</string>
+    <string name="jot_down_your_thoughts">Jot Down Your Thoughts</string>
 </resources>
